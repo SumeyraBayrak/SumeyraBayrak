@@ -1,4 +1,4 @@
-![Animasyonlu Resim](link_to_your_gif_image.gif)
+![Animasyonlu Resim](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/367f72ce-d547-4029-8fde-6d554db1169e)
 ![Blue Modern Technology LinkedIn Banner (1)](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/19466f86-2320-42e9-afbe-3375e9d02a2a)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muffafa.muffafa">
