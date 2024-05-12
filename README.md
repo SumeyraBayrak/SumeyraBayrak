@@ -1,4 +1,5 @@
-![robotResmi](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/ce394a17-aed4-4adf-91c2-f0ba289abefa)
+![Blue Modern Technology LinkedIn Banner (1)](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/404f1bba-7f3d-4853-a195-4a9abb08a8c1)
+
 
 <div style="text-align: center;">
     <h1>
