@@ -1,4 +1,5 @@
-![Animasyonlu Resim](https://raw.githubusercontent.com/SumeyraBayrak/SumeyraBayrak/main/assets/136161028/367f72ce-d547-4029-8fde-6d554db1169e/your_animation.gif)
+https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/b1973109-5f3b-4b85-ba48-fd5519b3ea33
+
 
 https://raw.githubusercontent.com/SumeyraBayrak/SumeyraBayrak/main/assets/136161028/367f72ce-d547-4029-8fde-6d554db1169e/your_animation.gif
 
