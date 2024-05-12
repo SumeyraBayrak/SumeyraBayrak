@@ -1,4 +1,4 @@
-https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/bab9132c-6a7a-4502-92fd-43f62cb4aa69
+
 
 ![MasterHead](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/bab9132c-6a7a-4502-92fd-43f62cb4aa69)
 
