@@ -12,9 +12,9 @@
 
 ### <p align="center">About Me</p>
  
-- 🚀 I'm **Jr. Full Stack Web3 Developer**
-- 🌱 I’m currently learning Python
-- 🌱  I’m currently learning: **Backend Technologies and Project Management**    
-- 📫  Contact with me! **[https://linktr.ee/muffafa](https://linktr.ee/muffafa)**
+- 🚀  I'm **Jr. Full Stack Web3 Developer**
+- 🤝 I’m looking for help with programming
+- 🌱 I’m currently learning **Python**
+- 📫 How to reach me **bayraksumeyra8@gmail.com**
 
 ---
