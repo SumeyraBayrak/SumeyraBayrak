@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://www.canva.com/design/DAGFB9Gsb1o/2X-9VY9aeXEbON9JcFh6bQ/view?utm_content=DAGFB9Gsb1o&utm_campaign=designshare&utm_medium=link&utm_source=editor" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
