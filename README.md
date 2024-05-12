@@ -1,5 +1,6 @@
-![Animasyonlu Resim](https://github.com/SumeyraBayrak/SumeyraBayrak/blob/main/assets/136161028/367f72ce-d547-4029-8fde-6d554db1169e/your_animation.gif)
+![Animasyonlu Resim](https://raw.githubusercontent.com/SumeyraBayrak/SumeyraBayrak/main/assets/136161028/367f72ce-d547-4029-8fde-6d554db1169e/your_animation.gif)
 
+https://raw.githubusercontent.com/SumeyraBayrak/SumeyraBayrak/main/assets/136161028/367f72ce-d547-4029-8fde-6d554db1169e/your_animation.gif
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muffafa.muffafa">
 <div align="center">
