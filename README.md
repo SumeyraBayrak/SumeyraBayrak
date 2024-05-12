@@ -1,5 +1,4 @@
-
-![Blue Modern Technology LinkedIn Banner (1)](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/404f1bba-7f3d-4853-a195-4a9abb08a8c1)
+![robot github resmi](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/01b5d800-4502-4c05-b48b-cd7d10e78b93)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SumeyraBayrak.SumeyraBayrak" />
 
