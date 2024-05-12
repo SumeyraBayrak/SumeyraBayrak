@@ -1,6 +1,5 @@
 
-![MasterHead](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/acd95a0a-479c-4204-ad7b-e16833bc1347
-)
+![MasterHead](https://github.com/SumeyraBayrak/SumeyraBayrak/issues/1#issue-2291218330)
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
 <h3 align="center">A passionate IOS developer from Türkiye</h3>
