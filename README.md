@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/bab9132c-6a7a-4502-92fd-43f62cb4aa69)
+![MasterHead](https://www.canva.com/design/DAGFB9Gsb1o/2X-9VY9aeXEbON9JcFh6bQ/view?utm_content=DAGFB9Gsb1o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h1 align="center">Hi 👋, I'm Mesut As</h1>
 <h3 align="center">A passionate IOS developer from Türkiye</h3>
