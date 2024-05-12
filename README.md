@@ -7,9 +7,5 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumeyra+Bayrak!;" />
 </h1>
 
-<div align="center">
- <a href="https://github.com/SumeyraBayrak">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines= HELLO+THERE!+%F0%9F%91%BE+WELCOME+%F0%9F%99%8B%F0%9F%8F%BB;MY+NAME+IS+SUMEYRA+%F0%9F%98%BC;SUMEYRA+BAYRAK+%F0%9F%A4%93" alt="Typing SVG" />
- </a>
-</div>
+
 
