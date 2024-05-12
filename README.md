@@ -1,4 +1,4 @@
-![robot github resmi](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/01b5d800-4502-4c05-b48b-cd7d10e78b93)
+![robotResmi](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/ce394a17-aed4-4adf-91c2-f0ba289abefa)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SumeyraBayrak.SumeyraBayrak" />
 
