@@ -1,0 +1,26 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    # Bu, her gün belirli bir saatte eylemin çalışmasını sağlar
+    - cron: '0 0 * * *' # Her gün 00:00'da
+
+jobs:
+  generate_snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game
+        uses: Platane/snk@v3
+        with:
+          # GitHub kullanıcı adı
+          github_user_name: ${{ github.repository_owner }}
+
+          # Oluşturulacak dosyaların listesi
+          # Her bir çıktı bir satırda ve opsiyonlarla belirtilebilir
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
