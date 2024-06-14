@@ -1,4 +1,5 @@
-https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/27a5fe4f-d1ac-4a53-9c0f-dbc15b86f04f
+![githup-resim](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/0e941ee9-41f5-4952-a7ca-48617f6a9d77)
+
 
 
 <div align="center">
