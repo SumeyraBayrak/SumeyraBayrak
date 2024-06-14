@@ -1,5 +1,4 @@
-![githup-resim](https://github.com/SumeyraBayrak/SumeyraBayrak/blob/main/yeni-resim.png)
-
+![yeni-resim](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/b544a7b8-204a-457e-9684-e28cc4551807)
 <div align="center">
  <a href="https://github.com/SumeyraBayrak">
   <h1 align="center">
