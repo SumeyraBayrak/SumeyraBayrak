@@ -1,4 +1,4 @@
-![githup-resim](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/0e941ee9-41f5-4952-a7ca-48617f6a9d77)
+![githup-resim](https://github.com/SumeyraBayrak/SumeyraBayrak/blob/main/yeni-resim.png)
 
 
 
