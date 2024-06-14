@@ -1,4 +1,4 @@
-![Proje Videosu](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/18c908b8-fa95-4bc6-9927-ce0a3f2b2d48)
+![Proje Videosu](https://github.com/SumeyraBayrak/SumeyraBayrak/issues/3)
 
 <div align="center">
  <a href="https://github.com/SumeyraBayrak">
