@@ -1,4 +1,4 @@
-![Blue Modern Technology LinkedIn Banner (1)](https://github.com/SumeyraBayrak/SumeyraBayrak/blob/main/github-video5.mp4)
+![Blue Modern Technology LinkedIn Banner (1)](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/18c908b8-fa95-4bc6-9927-ce0a3f2b2d48)
 
 <div align="center">
  <a href="https://github.com/SumeyraBayrak">
