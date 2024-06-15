@@ -1,4 +1,4 @@
-![Github-Readme-Image-1](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/4d2d4c59-d51e-4d81-afdc-863d06a14d63)
+![Github-Readme-Image-2](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/e0a26deb-0e0e-41f5-b439-1ecc330f6e59)
 
 ---
 <div align="center">
