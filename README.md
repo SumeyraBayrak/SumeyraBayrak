@@ -1,12 +1,10 @@
-![Github-Readme-Image](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/67936907-3a14-4e88-ab04-d733b710ceeb)
+![Github-Readme-Image-1](https://github.com/SumeyraBayrak/SumeyraBayrak/assets/136161028/4d2d4c59-d51e-4d81-afdc-863d06a14d63)
 
+---
 <div align="center">
  <a href="https://github.com/SumeyraBayrak">
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumeyra+Bayrak!+%F0%9F%91%A9%E2%80%8D%E2%9D%A4%EF%B8%8F%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;" />
-     <a href="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumeyra+Bayrak!+👩‍❤️‍👩‍💻;" style="color:#39FF14; text-decoration:none;">
-    Hi There! 👋 <br> I'm Sumeyra Bayrak! 👩‍❤️‍👩‍💻
-
   </h1>
  </a>
 </div>
