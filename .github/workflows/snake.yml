@@ -13,3 +13,9 @@ jobs:
         with:
           github_user_name: SumeyraBayrak
           outputs: dist/snake.svg
+
+      - name: Upload Snake
+        uses: actions/upload-artifact@v3  # Artifaktı yükle
+        with:
+          name: contribution-snake
+          path: dist/snake.svg # Yükleme yapılacak dosyanın yolu
