@@ -1,22 +1,23 @@
 name: Generate Snake Animation
 on:
   schedule:
-    - cron: "0 0 * * *" # Her gün çalışır
-  workflow_dispatch: # Manuel çalıştırma
+    - cron: "0 0 * * *" # Runs every day
+  workflow_dispatch: # Manual trigger
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2 # Reposu alıyoruz
+        uses: actions/checkout@v2  # Checkout the code
      
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: SumeyraBayrak  # GitHub kullanıcı adınız
-          output: dist/snake.svg # Çıktı dosyasının yolu
+          github_user_name: SumeyraBayrak  # Your GitHub username
+          entryPoint: dist/snake.svg # Output file path (this is a valid input)
+
       - name: Upload Snake
-        uses: actions/upload-artifact@v3  # v3 sürümünü kullanıyoruz
+        uses: actions/upload-artifact@v3  # Upload the artifact
         with:
           name: contribution-snake
-          path: dist/snake.svg # Yükleme yapılacak dosyanın yolu
+          path: dist/snake.svg # Path to the file being uploaded
