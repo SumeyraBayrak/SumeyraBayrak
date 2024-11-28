@@ -1,23 +1,15 @@
-name: Generate Snake Animation
+ name: Generate Snake Animation
+
 on:
   schedule:
-    - cron: "0 0 * * *" # Her gün çalışır
-  workflow_dispatch: # Manuel tetikleme
+    - cron: "0 0 * * *"
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2  # Kodu alıyoruz
-     
-      - name: Generate Snake
-        uses: Platane/snk@v2
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
         with:
-          github_user_name: SumeyraBayrak  # GitHub kullanıcı adınız
-          outputs: dist/snake.svg # Çıktı dosyasının yolu
-
-      - name: Upload Snake
-        uses: actions/upload-artifact@v3  # Artifaktı yükle
-        with:
-          name: contribution-snake
-          path: dist/snake.svg # Yükleme yapılacak dosyanın yolu
+          github_user_name: SumeyraBayrak
+          outputs: dist/snake.svg
