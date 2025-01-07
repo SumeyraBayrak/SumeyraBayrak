@@ -13,7 +13,6 @@
 
 ### <p align="center">About Me</p>
  
-- 🚀  I'm **Jr. Full Stack Web3 Developer**
 - 🤝 I’m looking for help with programming
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me **bayraksumeyra8@gmail.com**
